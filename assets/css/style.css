@@ -156,7 +156,7 @@ h6 {
 # Navigation Menu
 --------------------------------------------------------------*/
 /**
-* Desktop Navigation 
+* Desktop Navigation
 */
 .nav-menu {
   padding: 0;
@@ -243,7 +243,7 @@ h6 {
 }
 
 /**
-* Mobile Navigation 
+* Mobile Navigation
 */
 .mobile-nav-toggle {
   position: fixed;
@@ -521,6 +521,13 @@ section {
   background-color: #0563bb;
 }
 
+.skills_image {
+  width: 100px;
+}
+
+.second-row {
+  margin-top: 20px;
+}
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
